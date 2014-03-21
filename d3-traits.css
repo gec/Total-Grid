@@ -1,0 +1,43 @@
+/*! d3-traits - v0.0.1 - 2014-03-21
+* https://github.com/gec/d3-traits
+* Copyright (c) 2014 d3-traits; Licensed ,  */
+.axis path, .axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+.axis path{
+    fill: none;
+    stroke: none;
+}
+.bar {
+    fill: lightblue;
+}
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+ul.legend {
+    list-style: none;
+    font-size: 12px;
+}
+
+ul.legend li {
+    padding: .2em .8em;
+    display: inline;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    padding: 0 0 0.16em 0;
+    margin-right: 1.6em;
+}
