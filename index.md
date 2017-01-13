@@ -20,5 +20,5 @@ An open source community dedicated to enabling a smarter energy grid.
 <a href="mailto:support@totalgrid.org?subject=Request to Join Mailing List">
 Join our mailing list for the latest news and updates</a> 
 
-Development powered by [![](https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2)](https://www.jetbrains.com/)
+Development powered by [![](http://www.underconsideration.com/brandnew/archives/jetbrains_logo_detail.jpg)](https://www.jetbrains.com/)
 
